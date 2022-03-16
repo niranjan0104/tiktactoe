@@ -1,0 +1,21 @@
+#game-wrapper{
+    text-align: center;
+    align-items: center;
+}
+
+table{
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+td{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    color: rgb(4, 22, 22);
+    font-size: 50px;
+    border-radius: 10px;
+}
+#player{
+    color: deeppink;
+}
